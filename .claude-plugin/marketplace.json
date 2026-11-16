@@ -1,1 +1,27 @@
-{"name":"taste-skill-sync","owner":{"name":"VNBG Marketing"},"plugins":[{"name":"taste-skill","description":"tasteskill: professional company websites, checked in a real browser. Follows github.com/Leonxlnx/taste-skill.","version":"2.5.1+gf6b7657","source":{"source":"github","repo":"Leonxlnx/taste-skill","sha":"f6b76575f949707b4e3c37cd86cb44b0b98643e8"},"strict":false,"skills":["./skills/taste-skill"],"author":{"name":"leonxlnx"},"homepage":"https://github.com/Leonxlnx/taste-skill","license":"MIT"}]}
+{
+  "name": "taste-skill-sync",
+  "owner": {
+    "name": "VNBG Marketing"
+  },
+  "plugins": [
+    {
+      "name": "taste-skill",
+      "description": "tasteskill: professional company websites, checked in a real browser. Follows github.com/Leonxlnx/taste-skill.",
+      "version": "2.5.1+gf6b7657",
+      "source": {
+        "source": "github",
+        "repo": "Leonxlnx/taste-skill",
+        "sha": "f6b76575f949707b4e3c37cd86cb44b0b98643e8"
+      },
+      "strict": false,
+      "skills": [
+        "./skills/taste-skill"
+      ],
+      "author": {
+        "name": "leonxlnx"
+      },
+      "homepage": "https://github.com/Leonxlnx/taste-skill",
+      "license": "MIT"
+    }
+  ]
+}
