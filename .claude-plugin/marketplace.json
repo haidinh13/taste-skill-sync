@@ -7,11 +7,11 @@
     {
       "name": "taste-skill",
       "description": "tasteskill: professional company websites, checked in a real browser. Follows github.com/Leonxlnx/taste-skill.",
-      "version": "2.5.1+gd1a2bb4",
+      "version": "2.5.1+g952435f",
       "source": {
         "source": "github",
         "repo": "Leonxlnx/taste-skill",
-        "sha": "d1a2bb41d927083ac7118f60cfc9cdf711810ea0"
+        "sha": "952435f63acece7d2fcb4b4d3c1786c1c43603e0"
       },
       "strict": false,
       "skills": [
